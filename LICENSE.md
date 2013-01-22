@@ -1,4 +1,4 @@
-Copyright 2013 Rishabh Rao
+Copyright 2013 [Rishabh Rao](http://rishabhsrao.github.com)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
