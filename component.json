@@ -1,0 +1,10 @@
+{
+  "name": "weather",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.9.0",
+    "jquery.mobile-1.2.0": "http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.zip",
+    "knockout-2.2.1": "http://knockoutjs.com/downloads/knockout-2.2.1.js",
+    "javascript-debug": "git://github.com/cowboy/javascript-debug.git"
+  }
+}
